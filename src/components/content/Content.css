@@ -1,0 +1,8 @@
+.status{
+    position: relative;
+    right: -90%;
+    transform-origin: 0 0;
+    transform: rotate(269deg);
+    font-weight: bold;
+    font-style: italic;
+}
