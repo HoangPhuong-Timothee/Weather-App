@@ -2,6 +2,7 @@ This is a simple Weather app using ReactJS for Front-end.
 API: https://openweathermap.org/api
 
 To run this app:
+
 step1: clone this repo.
 
 step2: go to the terminal and type "npm i" to install node_modules package.
