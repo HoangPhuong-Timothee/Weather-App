@@ -11,5 +11,5 @@ step3: go to Open Weather API and generate a API key.
 
 step4: copy your APIkey and url API, paste it into variable Url.
 
-fial: at terminal type "npm run start" and enjoy the show =)).
+final: at terminal type "npm run start" and enjoy the show =)).
 
